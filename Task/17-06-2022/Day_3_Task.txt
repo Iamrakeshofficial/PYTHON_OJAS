@@ -1,0 +1,8 @@
+1) WAPP to reverse internal content of every second word present in the given String.
+2) WAPP for the following requirements
+    input->a3z2b4
+    output->aaabbbbzz(sorted string).
+
+3)WAPP  to extract year ,month,date and time using lambda Function.
+4)WAPP to find the values of length six in given list using lambda Function.
+5)WAPP to find factorial of number using closure Function.

@@ -1,0 +1,3 @@
+Multitasking is the ability of an operating system and it is a logical extension of multiprogramming.
+            It is the ability of an operating system to execute more than one
+            task simultaneously on a single processor machine

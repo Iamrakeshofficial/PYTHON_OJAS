@@ -1,0 +1,2 @@
+You can count number of words in a text file in Python by following
+a sequence of steps which we shall discuss in this tutorial.

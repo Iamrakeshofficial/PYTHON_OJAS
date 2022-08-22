@@ -1,0 +1,110 @@
+1.What is Identifiers?
+2.What are the rules for Identifiers?
+3.What is The Use of Identifiers and show some examples?
+4.What do you mean by literals?
+5.How many type of literals are there give example on each literals?
+6.What is operator ?
+7.How many types of operator are there in python explain each and every operator?
+8.What is Keywords in Python and give some keyword name ?
+9.What is list data type?
+10.Tell some methods in List?
+11.How to dele a list?
+12.WAP to get maximum value of a given list without using builtin methods?
+13.What is tuple data type?
+14.How many methods you know in tuple data type?
+15.What is set data type in python?
+16.Give some examples of set methods?
+17.What is frozenset in python?
+18.Wap how to append a value to set?
+19.What do you mean by mapping data type in python and which mehods are used in it?
+20.WAP to get only keys on a dictionary data type?
+21.Difference between  List and Tuple?
+22.Static type vs Dynamic Type?
+23.What is PEP8 Standards and tell atleast 5 rules of it?
+24.What do you mean by NameSpaces in python?
+25.How memory managed in python?
+26.What is difference between list and Arrays?
+27.What is the role of Pvm?
+28.What is Python?
+29.What are the features of Python?
+30.Why python is interpreted LAnguage?
+31.What do you mean by Portable?
+32.What is implicit and explicit data type in python give example on it?
+33.What are the conditional statements?
+34.write program for each conditional statements?
+35.What do you mean by pass ,continue,break in python give one example on it?
+36.Write a Program using while loop and For loop?
+37.WAP for palindrome number using while loop?
+38.Write a Program on nested Loop?
+40.What do you mean by Function in python and why we need function?
+41.How many types of function you know?
+42.What is argument give one example on it?
+43.What is Builtin function?
+44.What do you mean by lambda Function write a program for it?
+45.What is closure function write a program for it?
+46.What is Recursive Function and give one example on it?
+47.What do you mean by list comprehension give one example on it?
+48.What do you mean by set comprehension give one example on it?
+49.What do you mean by dictionary comprehension give one example on it?
+50.What is array in Python?
+51.Write a Program on Array?
+52.What is OOPS in Python?
+53.What do you mean by a class and object?
+54.What is constructor in python?
+55.what is the role of constructor in python?
+56.What is PolyMorphism in Python?
+57.What do you mean by inheritance?
+58.Types of inheitance?
+59.Difference between multiple and Multilevel inheritance?
+60.What is MRO?
+61.What is Duck Typing Give example on it?
+62.What is Strong Typing write  a Program on it?
+63.Difference between Method Ovreloading and Method Overriding?
+64.What is Abstraction in Python?
+65.What do you mean by abstract Method and Concrete Method?
+66.What is interface in Python?
+67.What is Encapsulation in Python?
+68.What is Public,private ,Protected method in python?
+69.How can you access a private Method?
+70.What do you mean by Modules and Packages in Python?
+71.Difference between Module and packages?
+72.How many Modules  you know and give some method name on that module?
+73.What is a geneartor write a Program on it?
+74.What do you mean by yield?
+75.What do you mean by decorator and give one example omn it?
+76.what is Iteratorin python?
+77.How many methods are in iterator and explain it?
+78.what is send() and next()?
+79.What is Pickling write a program to pickle one object?
+80.What is UnPickling write a program to unpickle one object?
+81.How many methods are available in pickle module?
+82.What is File Handling in Python?
+83.How many Modes available in File Handling?
+84.How many types of files are there writea a program on file handling?
+85.What do you mean by tell() and seek() in file handling?
+86.How to read all the lines of a file?
+87.What is Multithreading?
+88.How many ways you can create a thread?
+89.How to start a Thread?
+90.What is a Thread?
+91.What is Race Condition in Multithreading?
+92.What is Join()?
+93.What is Thread Synchronization?
+94.Difference betwwen Lock and Rlock?
+95.What do you mean by Semaphores?
+96.What do you mean by Exception Handling?
+97.What are the Builtin Exceptions give example on it?
+98.What is try  and except block?
+99.Is it compulsory to write finally block?
+100.What is MAgic Methods?
+101.What is the Use of Magic MEthod?
+102.Write a Program for Magic Method?
+103.What do you mean by logging?
+104.What are the Steps for Logging>
+105.Why we use Logging?
+106.What is Deep Copy and Shallow Copy?
+107.What is Map,filter,reduce function write one program each of it?
+108.What do you mean by local and Global Variables?
+109.
+
+

@@ -1,0 +1,2 @@
+Write Program  to calculate area of different Figures such as circle,rectangle and square by 
+using method overriding and implementing polymorphism.
